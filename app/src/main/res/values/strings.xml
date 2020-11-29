@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weatherappassignment</string>
+    <string-array name="Cities">
+        <item>riyadh</item>
+        <item>jeddah</item>
+        <item>medina</item>
+    </string-array>
+</resources>
